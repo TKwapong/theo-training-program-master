@@ -1,10 +1,12 @@
 # training_program
 
-A new Flutter project.
+A new Flutter project to showcase some training programs that an organization offers.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project had the client side and was fed with responses from an API.
+The search API would perform a full text search on the training programs and return the search results in a JSON response. The JSON response should be in the format {success: true, data: training}.
+Looking to hopefully update the UI more.
 
 A few resources to get you started if this is your first Flutter project:
 
